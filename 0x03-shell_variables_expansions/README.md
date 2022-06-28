@@ -1,0 +1,3 @@
+
+
+scripts to shell permissions
